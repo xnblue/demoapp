@@ -1,0 +1,7 @@
+{
+    "packageUrl": "https://your-server.com/update/",
+    "remoteManifestUrl": "https://your-server.com/update/project.manifest",
+    "version": "1.0.0",
+    "assets": {},
+    "searchPaths": []
+}
